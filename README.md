@@ -1,16 +1,13 @@
-🌙 Muslimah Shop
+Muslimah Shop
 
 Aplikasi e-commerce sederhana untuk menjual produk busana muslimah, dibuat menggunakan PHP Native dan MySQL
 
-## 📋 Deskripsi
+ Deskripsi
 
 **Muslimah Shop** adalah website toko online yang menjual produk busana muslimah seperti hijab, gamis, aksesoris, dan tas. Website ini memiliki dua jenis pengguna, yaitu **customer** (pengguna biasa) dan **admin**, masing-masing dengan fitur dan halaman yang berbeda.
 
----
-
-## ✨ Fitur
-
-### 👤 Pengguna (Customer)
+Fitur
+Pengguna (Customer)
 - Register & Login dengan autentikasi aman (password di-hash dengan bcrypt)
 - Halaman beranda dengan hero section, statistik toko, dan produk terbaru
 - Katalog produk dengan fitur **pencarian**, **filter kategori**, dan **pengurutan** (termurah, termahal, nama)
@@ -18,7 +15,7 @@ Aplikasi e-commerce sederhana untuk menjual produk busana muslimah, dibuat mengg
 - Proses checkout dengan input alamat pengiriman
 - Notifikasi flash message setiap aksi
 
-### 🔧 Admin
+ Admin
 - Dashboard dengan statistik total produk, pelanggan, pesanan, dan omzet
 - Kelola Produk (CRUD: tambah, lihat, edit, hapus + upload gambar)
 - Kelola Kategori
@@ -26,9 +23,7 @@ Aplikasi e-commerce sederhana untuk menjual produk busana muslimah, dibuat mengg
 - Kelola Data Users
 - Notifikasi stok produk yang menipis (< 5 item)
 
----
-
-## 🛠️ Teknologi yang Digunakan
+ Teknologi yang Digunakan
 
 | Komponen | Teknologi |
 |---|---|
@@ -42,7 +37,7 @@ Aplikasi e-commerce sederhana untuk menjual produk busana muslimah, dibuat mengg
 
 ---
 
-## 📁 Struktur Folder
+ Struktur Folder
 
 ```
 muslimah/
