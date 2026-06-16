@@ -136,7 +136,7 @@ atau sesuaikan port dengan pengaturan server lokal Anda.
 ## 📸 Screenshot
 
 ### Halaman Login
-![Login](screenshots/Screenshot Login.png)
+![Login](screenshots/Login.png)
 
 ### Halaman Beranda
 ![Beranda](screenshots/beranda.png)
