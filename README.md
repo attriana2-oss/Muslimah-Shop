@@ -150,12 +150,6 @@ atau sesuaikan port dengan pengaturan server lokal Anda.
 
 ---
 
-## 📝 Lisensi
-
-Project ini dibuat untuk keperluan tugas akademik (UAS Pemrograman Web). Bebas digunakan sebagai referensi belajar.
-
----
-
 ## 👩‍💻 Author
 
 **[Attriana Bertin]**  
