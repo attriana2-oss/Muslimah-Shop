@@ -1,7 +1,6 @@
-# 🌙 Muslimah Shop
+🌙 Muslimah Shop
 
 Aplikasi e-commerce sederhana untuk menjual produk busana muslimah, dibuat menggunakan PHP Native dan MySQL
----
 
 ## 📋 Deskripsi
 
@@ -48,25 +47,25 @@ Aplikasi e-commerce sederhana untuk menjual produk busana muslimah, dibuat mengg
 ```
 muslimah/
 ├── includes/
-│   ├── config.php        # Konfigurasi DB, konstanta, dan helper function
-│   ├── header.php        # Template navbar
-│   └── footer.php        # Template footer
+│   ├── config.php        
+│   ├── header.php        
+│   └── footer.php        
 ├── admin/
-│   ├── index.php         # Dashboard admin
-│   ├── produk.php        # Kelola produk (CRUD)
-│   ├── kategori.php      # Kelola kategori
-│   ├── pesanan.php       # Kelola pesanan
-│   └── users.php         # Kelola pengguna
-├── image/                # Folder gambar produk
-├── index.php             # Halaman beranda
-├── produk.php            # Katalog produk
-├── detail_produk.php     # Detail produk
-├── keranjang.php         # Keranjang belanja & checkout
-├── pesanan.php           # Riwayat pesanan user
-├── login.php             # Halaman login
-├── register.php          # Halaman register
-├── logout.php            # Proses logout
-└── database.sql          # File SQL (struktur tabel + data awal)
+│   ├── index.php         
+│   ├── produk.php        
+│   ├── kategori.php      
+│   ├── pesanan.php       
+│   └── users.php         
+├── image/                
+├── index.php             
+├── produk.php            
+├── detail_produk.php     
+├── keranjang.php         
+├── pesanan.php           
+├── login.php             
+├── register.php          
+├── logout.php            
+└── database.sql          
 ```
 
 ---
