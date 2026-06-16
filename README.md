@@ -136,16 +136,16 @@ atau sesuaikan port dengan pengaturan server lokal Anda.
 ## 📸 Screenshot
 
 ### Halaman Login
-![Login](screenshots/login.png)
+![login](screenshots/login.png)
 
 ### Halaman Beranda
-![Beranda](screenshots/beranda.png)
+![beranda](screenshots/beranda.png)
 
 ### Katalog Produk
-![Produk](screenshots/produk.png)
+![produk](screenshots/produk.png)
 
 ### Keranjang Belanja
-![Keranjang](screenshots/keranjang.png)
+![keranjang](screenshots/keranjang.png)
 
 
 ---
