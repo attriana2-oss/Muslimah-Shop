@@ -99,7 +99,7 @@ C:/xampp/htdocs/muslimah/
 - Klik tab **Import**, lalu pilih file `database.sql`
 - Klik **Go** / **Kirim**
 
- 4. Sesuaikan Konfigurasi (jika perlu)
+ 4. Sesuaikan Konfigurasi
 Buka file `includes/config.php` dan sesuaikan jika ada yang berbeda:
 ```php
 define('DB_HOST', 'localhost');
