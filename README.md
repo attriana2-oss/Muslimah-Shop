@@ -65,7 +65,7 @@ muslimah/
 
 ---
 
-## 🗄️ Struktur Database
+ Struktur Database
 
 Database: `ecommerce_db`
 
@@ -80,26 +80,26 @@ Database: `ecommerce_db`
 
 ---
 
-## 🚀 Cara Instalasi
+ Cara Instalasi
 
-### 1. Clone Repository
+ 1. Clone Repository
 ```bash
 git clone https://github.com/attriana2-oss/muslimah-shop.git
 ```
 
-### 2. Pindahkan ke Folder Server Lokal
+ 2. Pindahkan ke Folder Server Lokal
 Salin folder `muslimah-shop` ke dalam folder htdocs (XAMPP) atau www (Laragon):
 ```
 C:/xampp/htdocs/muslimah/
 ```
 
-### 3. Import Database
+ 3. Import Database
 - Buka **phpMyAdmin** di browser: `http://localhost/phpmyadmin`
 - Buat database baru dengan nama: `ecommerce_db`
 - Klik tab **Import**, lalu pilih file `database.sql`
 - Klik **Go** / **Kirim**
 
-### 4. Sesuaikan Konfigurasi (jika perlu)
+ 4. Sesuaikan Konfigurasi (jika perlu)
 Buka file `includes/config.php` dan sesuaikan jika ada yang berbeda:
 ```php
 define('DB_HOST', 'localhost');
@@ -109,7 +109,7 @@ define('DB_NAME', 'ecommerce_db');
 define('SITE_URL', 'http://localhost:8080/muslimah');
 ```
 
-### 5. Jalankan Website
+ 5. Jalankan Website
 Buka browser dan akses:
 ```
 http://localhost:8080/muslimah/
@@ -118,16 +118,16 @@ atau sesuaikan port dengan pengaturan server lokal Anda.
 
 ---
 
-## 👤 Akun Demo
+ Akun Demo
 
 | Role | Email | Password |
 |---|---|---|
 | Admin | admin@shop.com | password |
 | User | user@shop.com | password |
 
----
 
-## 📸 Screenshot
+
+ Screenshot
 
 ### Halaman Login
 ![Login](login.png)
@@ -142,11 +142,9 @@ atau sesuaikan port dengan pengaturan server lokal Anda.
 ![Keranjang](keranjang.png)
 
 
----
+Author
 
-## 👩‍💻 Author
-
-**[Attriana Bertin]**  
-[Universitas Tarakanita]  
-[Prodi Sistem Informasi]  
-[2026]
+Attriana Bertin  
+Universitas Tarakanita 
+Prodi Sistem Informasi
+2026
