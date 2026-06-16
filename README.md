@@ -146,5 +146,7 @@ Author
 
 Attriana Bertin  
 Universitas Tarakanita 
+
 Prodi Sistem Informasi
+
 2026
