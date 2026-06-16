@@ -147,7 +147,6 @@ atau sesuaikan port dengan pengaturan server lokal Anda.
 ### Keranjang Belanja
 ![Keranjang](screenshots/keranjang.png)
 
-> **Catatan:** Simpan screenshot Anda ke dalam folder `screenshots/` di dalam repository.
 
 ---
 
